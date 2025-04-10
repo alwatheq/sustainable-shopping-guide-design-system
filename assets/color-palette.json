@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "primary": {
+      "green": "#2A9D8F",
+      "blue": "#264653"
+    },
+    "secondary": {
+      "green": "#8ECBC0",
+      "blue": "#507D8C"
+    },
+    "accent": {
+      "orange": "#E76F51",
+      "yellow": "#E9C46A",
+      "green": "#4CAF50"
+    },
+    "neutral": {
+      "darkGrey": "#333333",
+      "mediumGrey": "#666666",
+      "lightGrey": "#EEEEEE",
+      "white": "#FFFFFF"
+    }
+  }
+}
