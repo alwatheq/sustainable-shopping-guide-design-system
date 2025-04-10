@@ -1,0 +1,93 @@
+{
+  "fonts": {
+    "primary": "Tajawal",
+    "secondary": "Cairo"
+  },
+  "sizes": {
+    "heading1": "24px",
+    "heading2": "20px",
+    "heading3": "18px",
+    "body": "16px",
+    "caption": "14px",
+    "small": "12px"
+  },
+  "weights": {
+    "regular": 400,
+    "medium": 500,
+    "bold": 700
+  },
+  "textStyles": [
+    {
+      "name": "Cairo/H1/Bold",
+      "font": "Cairo",
+      "size": "24px",
+      "weight": 700,
+      "lineHeight": "32px",
+      "rtl": true
+    },
+    {
+      "name": "Cairo/H2/Bold",
+      "font": "Cairo",
+      "size": "20px",
+      "weight": 700,
+      "lineHeight": "28px",
+      "rtl": true
+    },
+    {
+      "name": "Cairo/H3/Bold",
+      "font": "Cairo",
+      "size": "18px",
+      "weight": 700,
+      "lineHeight": "24px",
+      "rtl": true
+    },
+    {
+      "name": "Tajawal/Body/Regular",
+      "font": "Tajawal",
+      "size": "16px",
+      "weight": 400,
+      "lineHeight": "24px",
+      "rtl": true
+    },
+    {
+      "name": "Tajawal/Body/Medium",
+      "font": "Tajawal",
+      "size": "16px",
+      "weight": 500,
+      "lineHeight": "24px",
+      "rtl": true
+    },
+    {
+      "name": "Tajawal/Body/Bold",
+      "font": "Tajawal",
+      "size": "16px",
+      "weight": 700,
+      "lineHeight": "24px",
+      "rtl": true
+    },
+    {
+      "name": "Tajawal/Caption/Regular",
+      "font": "Tajawal",
+      "size": "14px",
+      "weight": 400,
+      "lineHeight": "20px",
+      "rtl": true
+    },
+    {
+      "name": "Tajawal/Caption/Medium",
+      "font": "Tajawal",
+      "size": "14px",
+      "weight": 500,
+      "lineHeight": "20px",
+      "rtl": true
+    },
+    {
+      "name": "Tajawal/Small/Regular",
+      "font": "Tajawal",
+      "size": "12px",
+      "weight": 400,
+      "lineHeight": "16px",
+      "rtl": true
+    }
+  ]
+}
